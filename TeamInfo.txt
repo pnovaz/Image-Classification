@@ -1,8 +1,0 @@
-Team information:
-Name: Cong Wang  
-NetID: cw700
-RUID: 167007636
-
-Name: Xue Ding  
-NetID: xd51
-RUID: 167006334
